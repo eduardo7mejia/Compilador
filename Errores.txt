@@ -1,0 +1,5 @@
+Linea  Error  
+4     Sentencia WIHLE no encontrada  
+4     Sentencia ( no encontrada  
+4     Hace falta ;  
+8     No se ha abierto un ciclo WHILE  

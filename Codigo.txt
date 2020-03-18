@@ -1,0 +1,11 @@
+String c = "hola";
+int a = 0;
+int b = 10;
+WIHLE ( int x == 2)
+String d = "hola2";
+a = b * 9;
+a = 7;
+ENDWHILE
+WHILE ( int y <= 2)
+a = b * 4;
+ENDWHILE
